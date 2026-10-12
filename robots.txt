@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://malakahmed2006.github.io/Maadubah_Academy/sitemap.xml
